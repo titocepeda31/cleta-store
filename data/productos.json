@@ -1,1452 +1,434 @@
 [
   {
-    "id": "1029",
-    "nombre": "Pino cepillado seco 1 x 5, 3, 20 mts",
-    "precio": 3500,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 1 x 5, 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-cepillado-2-maderas-muena-talca.png",
-    "principal": "1"
-  },
-  {
-    "id": "1030",
-    "nombre": "Pino cepillado seco 1 x 6, 3, 20 mts",
-    "precio": 2500,
-    "precioRebajado": 2000,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 1 x 6, 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-cepillado-2-maderas-muena-talca.png",
-    "principal": "1"
-  },
-  {
-    "id": "1031",
-    "nombre": "Pino cepillado seco 1 x 10, 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 1 x 10, 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-cepillado-2-maderas-muena-talca.png",
-    "principal": "1"
-  },
-  {
-    "id": "1032",
-    "nombre": "Pino 2 x 2 Cepillado 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino 2 x 2 Cepillado 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-cepillado-1-maderas-muena-talca.png",
-    "principal": "1"
-  },
-  {
-    "id": "1033",
-    "nombre": "Pino dimensionado 1 x 8 , 3.20 mts.",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "Viga 2 x 4, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-dimensionado-1-x-8-3.20-mts.png",
-    "principal": "1"
-  },
-  {
-    "id": "1034",
-    "nombre": "Pino dimensionado 1 x 10 , 3.20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "Viga 2 x 6, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-dimensionado-1-x-10-3.20-mts.png",
-    "principal": "1"
-  },
-  {
-    "id": "1035",
-    "nombre": "Pino dimensionado 1 x 2 , 3.20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "Viga 2 x 5, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-dimensionado-1-x-2-3.20-mts.png",
-    "principal": "1"
-  },
-  {
-    "id": "1036",
-    "nombre": "Viga 2 x 10 Cepillado 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Viga 2 x 10 Cepillado 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-cepillado-1-maderas-muena-talca.png",
-    "principal": "1"
-  },
-  {
-    "id": "1037",
-    "nombre": "Pino 2 x 3 Cepillado 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino 2 x 3 Cepillado 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-cepillado-1-maderas-muena-talca.png",
-    "principal": "1"
-  },
-  {
-    "id": "1038",
-    "nombre": "Pino dimensionado 1 x 6 , 3.20 mts.",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "Viga 2 x 8, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-dimensionado-1-x-6-3.20-mts.png",
-    "principal": "1"
-  },
-  {
-    "id": "1039",
-    "nombre": "Tapa 1 x 4 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Tapa 1 x 4 x 3, 20 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": "1"
-  },
-  {
-    "id": "1040",
-    "nombre": "Pino cepillado seco 2 x 5, 3, 20tms",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 2 x 5, 3, 20tms, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "imagenes/1040-1040.Imágenes.015245.jpg",
-    "principal": "1"
-  },
-  {
-    "id": "1041",
-    "nombre": "Pino cepillado seco 2 x 3, 3,20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 2 x 3, 3,20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-2-x-3-320-mts.jpeg",
-    "principal": ""
-  },
-  {
-    "id": "1042",
-    "nombre": "Piso 1 x 4 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Piso 1 x 4 x 3, 20 mts, alternativa para proyectos de pisos y terminaciones en madera. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1043",
-    "nombre": "Forro Cabaña Seco Impregnado 1 x 4 x 3,20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Impregnados exterior",
-    "descripcion": "Forro Cabaña Seco Impregnado 1 x 4 x 3,20 mts, madera para revestimientos y terminaciones de proyectos con acabado natural. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/impregnados-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1044",
-    "nombre": "Polin Impregnado 4-5",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Impregnados exterior",
-    "descripcion": "Polin Impregnado 4-5, ideal para cierres, estructuras y distintos trabajos en madera. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/impregnados-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1045",
-    "nombre": "viga cepillada largas 4 , 4.88 , 6 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Cielo Cepillado 2, 44 mts, madera cepillada para proyectos de cielo y terminaciones en madera. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-12.06.41-PM44dff.jpeg",
-    "principal": ""
-  },
-  {
-    "id": "1046",
-    "nombre": "Forro cabaña seco sin impreganar 1 x 4 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Forro cabaña seco sin impreganar 1 x 4 x 3, 20 mts, madera para revestimientos y terminaciones de proyectos con acabado natural. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Forro-cabana-seco-sin-impreganar-1-x-4-x-3-20-mts.jpeg",
-    "principal": ""
-  },
-  {
-    "id": "1047",
-    "nombre": "Tinglado 3/4 x 4 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Tinglado 3/4 x 4 x 3, 20 mts, madera para revestimientos y terminaciones, con una apariencia natural para distintos proyectos. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/tinglado.png",
-    "principal": ""
-  },
-  {
-    "id": "1048",
-    "nombre": "Pilar Finger 4 x 4 x 2, 50 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Pilar Finger 4 x 4 x 2, 50 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1049",
-    "nombre": "Pilar Finger 5 x 5 x 2, 70 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Pilar Finger 5 x 5 x 2, 70 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1050",
-    "nombre": "Puerta Interior sinfonía blanca 70 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Interior sinfonía blanca 70 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-sinfonia-blanca-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1051",
-    "nombre": "Puerta interior terciado económica 70 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta interior terciado económica 70 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-terciado-economica-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1052",
-    "nombre": "Marco Puerta 70 cm x 2 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Marco Puerta 70 cm x 2 mts, pensado para complementar trabajos de instalación y terminación de puertas. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/set-marco-puerta-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1053",
-    "nombre": "Guarda Polvo Finger 2 Pulgadas x 3 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Molduras terminación",
-    "descripcion": "Guarda Polvo Finger 2 Pulgadas x 3 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1054",
-    "nombre": "Pino cepillado seco 1 x 8, 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 1 x 8, 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-1-x-8-3-20-mts.png",
-    "principal": ""
-  },
-  {
-    "id": "1055",
-    "nombre": "Pino dimensionado 1 x 5 , 3.2 0 mts.",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "Pino Viga 2 x 5, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-dimensionado-1-x-5-3.2-0-mts.png",
-    "principal": ""
-  },
-  {
-    "id": "1056",
-    "nombre": "Pino dimensionado 2 x 8 , 3.20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "Pino Viga 2 x 6, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/viga-pino-maderas.muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1057",
-    "nombre": "Pino dimensionado  2 x 10 , 3.20mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "Pino Viga 2 x 7, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/viga-pino-maderas.muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1058",
-    "nombre": "Pino dimensionado 1 x 4 , 3.20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "Pino Viga 2 x 8, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Tablon-de-pino-natural-en-perspectiva.png",
-    "principal": ""
-  },
-  {
-    "id": "1059",
-    "nombre": "Osb 8mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Osb 8mm, tablero para distintos proyectos de construcción, revestimiento y habilitación. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/OSB-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1060",
-    "nombre": "Terciado ranurado colonial",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Terciado ranurado colonial, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1061",
-    "nombre": "Pellet 18 KG",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Calefacción",
-    "descripcion": "Pellet 18 KG, producto para sistemas de calefacción que utilizan pellet. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1062",
-    "nombre": "Pellet 20 KG",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Calefacción",
-    "descripcion": "Pellet 20 KG, producto para sistemas de calefacción que utilizan pellet. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1063",
-    "nombre": "Pino cepillado seco 1 x 2, 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 1 x 2, 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-cepillado-seco.png",
-    "principal": ""
-  },
-  {
-    "id": "1064",
-    "nombre": "Pino cepillado seco 1 x 3, 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 1 x 3, 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-1-x-3-320-mts.png",
-    "principal": ""
-  },
-  {
-    "id": "1065",
-    "nombre": "Pino cepillado seco 1 x 4, 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 1 x 4, 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-1-x-4-3-20-mts.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1066",
-    "nombre": "Cielo Cepillado 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Cielo Cepillado 3, 20 mts, madera cepillada para proyectos de cielo y terminaciones en madera. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Cielo-Cepillado-3-20-mts.jpeg",
-    "principal": ""
-  },
-  {
-    "id": "1067",
-    "nombre": "Tapa tabla 1 x 4 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Tapa tabla 1 x 4 x 3, 20 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Tapa-tabla-1-x-4-x-3-20-mts.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1068",
-    "nombre": "Rejilla treillage madera 1 x 2 mt",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Rejilla treillage madera 1 x 2 mt, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1069",
-    "nombre": "Fieltro asfáltico 16 mts 2",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Fieltro asfáltico 16 mts 2, material complementario para proyectos de techumbre y construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1070",
-    "nombre": "Aislante Aislapol 50mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Aislación",
-    "descripcion": "Aislante Aislapol 50mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/aislapol.png",
-    "principal": ""
-  },
-  {
-    "id": "1071",
-    "nombre": "Fibrocemento 8mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "Fibrocemento 8mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1072",
-    "nombre": "Clavos 1 1/2 Pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Clavos 1 1/2 Pulgadas, una opción práctica para trabajos de construcción, carpintería y fijaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/clavos-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1073",
-    "nombre": "Zinc Acanalado 0, 35 z150 2 Mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Zinc Acanalado 0, 35 z150 2 Mts, producto para proyectos de techumbre, cubiertas y soluciones de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/zinc-acanalado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1074",
-    "nombre": "plancha Internit 3, 5 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "plancha Internit 3, 5 mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/internit-fibro-cemento-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1075",
-    "nombre": "Volcanita 10mm estandar",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Volcanita 10mm estandar, plancha para proyectos de tabiquería, revestimientos y terminaciones interiores. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/volcanita-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1076",
-    "nombre": "Piso Flotante",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Piso Flotante, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1077",
-    "nombre": "Teja asfáltica roja",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Teja asfáltica roja, alternativa para proyectos de techumbre y terminaciones exteriores. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1078",
-    "nombre": "Osb 9mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Osb 9mm, tablero para distintos proyectos de construcción, revestimiento y habilitación. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/OSB-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1079",
-    "nombre": "Osb 11mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Osb 11mm, tablero para distintos proyectos de construcción, revestimiento y habilitación. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/OSB-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1080",
-    "nombre": "Osb 9.5mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Osb 9.5mm, tablero para distintos proyectos de construcción, revestimiento y habilitación. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/OSB-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1081",
-    "nombre": "PLACA OLB 8 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "PLACA OLB 8 mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1082",
-    "nombre": "Terciado Estructural 18 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Terciado Estructural 18 mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1083",
-    "nombre": "Terciado Estructural 12 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Terciado Estructural 12 mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1084",
-    "nombre": "Terciado Estructural 15 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Terciado Estructural 15 mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1085",
-    "nombre": "Terciado Ranudado 9 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Terciado Ranudado 9 mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1086",
-    "nombre": "Terciado Ranudado 12 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Terciado Ranudado 12 mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1087",
-    "nombre": "Fibrocemento 4 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "Fibrocemento 4 mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1088",
-    "nombre": "Fibrocemento 5 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "Fibrocemento 5 mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1089",
-    "nombre": "Fibrocemento 6 mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "Fibrocemento 6 mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1090",
-    "nombre": "Saiding fibrocemento 3, 66 x 19 x 6mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "Saiding fibrocemento 3, 66 x 19 x 6mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1091",
-    "nombre": "Volcanita 15mm Estandard",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Volcanita 15mm Estandard, plancha para proyectos de tabiquería, revestimientos y terminaciones interiores. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/volcanita-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1092",
-    "nombre": "Caballete 0, 40 x 3mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Caballete 0, 40 x 3mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/caballete-0-40-x-3mts.png",
-    "principal": ""
-  },
-  {
-    "id": "1093",
-    "nombre": "canaleta hojalata 0, 40 x 3mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "canaleta hojalata 0, 40 x 3mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1094",
-    "nombre": "Lata lisa 0, 40 x 2.5 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Lata lisa 0, 40 x 2.5 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/lata-lisa-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1095",
-    "nombre": "Lata lisa 0, 4 x 3mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Lata lisa 0, 4 x 3mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/lata-lisa-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1096",
-    "nombre": "Policarbonato ondulado 0, 8 mm x 2.5 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Policarbonato ondulado 0, 8 mm x 2.5 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/policarbonato-ondulado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1097",
-    "nombre": "Policarbonato ondulado 0, 8 mm x 3 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Policarbonato ondulado 0, 8 mm x 3 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/policarbonato-ondulado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1098",
-    "nombre": "Policarbonato ondulado 0, 8 mm x 3, 5 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Policarbonato ondulado 0, 8 mm x 3, 5 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/policarbonato-ondulado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1099",
-    "nombre": "Aislante térmico 40 mts cuadrados",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Aislación",
-    "descripcion": "Aislante térmico 40 mts cuadrados, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/aislante-termico-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1100",
-    "nombre": "Fieltros Ignífugos 16mt 2",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Aislación",
-    "descripcion": "Fieltros Ignífugos 16mt 2, material complementario para proyectos de techumbre y construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1101",
-    "nombre": "Fieltros Ignífugos 40mt 2",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Aislación",
-    "descripcion": "Fieltros Ignífugos 40mt 2, material complementario para proyectos de techumbre y construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1102",
-    "nombre": "Fieltro asfáltico 40 mts 2",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Fieltro asfáltico 40 mts 2, material complementario para proyectos de techumbre y construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1103",
-    "nombre": "Guarda Polvo Finger 3 Pulgadas x 3 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Molduras terminación",
-    "descripcion": "Guarda Polvo Finger 3 Pulgadas x 3 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1104",
-    "nombre": "Media caña figer pino 3mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Molduras terminación",
-    "descripcion": "Media caña figer pino 3mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1105",
-    "nombre": "Cuarto Rodón Finger Pino 3 Mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Molduras terminación",
-    "descripcion": "Cuarto Rodón Finger Pino 3 Mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/cuarto-rodon-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1106",
-    "nombre": "Puerta Pino E x terior Radiata 4 Paneles 75 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Pino E x terior Radiata 4 Paneles 75 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-radiata-cuatro-paneles-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1107",
-    "nombre": "Puerta Pino E x terior Radiata 4 Paneles 70 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Pino E x terior Radiata 4 Paneles 70 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-radiata-cuatro-paneles-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1108",
-    "nombre": "Puerta Pino E x terior Radiata 4 Paneles 80 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Pino E x terior Radiata 4 Paneles 80 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-radiata-cuatro-paneles-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1109",
-    "nombre": "Puerta Pino E x terior Radiata 4 Paneles 85 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Pino E x terior Radiata 4 Paneles 85 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-radiata-cuatro-paneles-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1110",
-    "nombre": "Puerta E x terior Sólida Oregón 85 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta E x terior Sólida Oregón 85 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1111",
-    "nombre": "Puerta E x terior Sólida Oregón 80 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta E x terior Sólida Oregón 80 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1112",
-    "nombre": "Puerta E x terior Sólida Oregón 75 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta E x terior Sólida Oregón 75 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1113",
-    "nombre": "Puerta E x terior Sólida Oregón 70 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta E x terior Sólida Oregón 70 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1114",
-    "nombre": "Marco Puerta 90cm x 2 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Marco Puerta 90cm x 2 mts, pensado para complementar trabajos de instalación y terminación de puertas. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/set-marco-puerta-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1115",
-    "nombre": "Cerradura Baño",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Cerradura Baño, solución para instalación, reposición y terminación de puertas. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1116",
-    "nombre": "Cerradura Dormitorio",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Cerradura Dormitorio, solución para instalación, reposición y terminación de puertas. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1117",
-    "nombre": "Cerradura Puerta Principal",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Cerradura Puerta Principal, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1118",
-    "nombre": "Clavos 6 pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Clavos 6 pulgadas, una opción práctica para trabajos de construcción, carpintería y fijaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/clavos-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1119",
-    "nombre": "Clavos 2 1/2 Pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Clavos 2 1/2 Pulgadas, una opción práctica para trabajos de construcción, carpintería y fijaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/clavos-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1120",
-    "nombre": "Clavos 2 Pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Clavos 2 Pulgadas, una opción práctica para trabajos de construcción, carpintería y fijaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/clavos-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1121",
-    "nombre": "Clavos 3 Pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Clavos 3 Pulgadas, una opción práctica para trabajos de construcción, carpintería y fijaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/clavos-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1122",
-    "nombre": "Clavos 4 pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Clavos 4 pulgadas, una opción práctica para trabajos de construcción, carpintería y fijaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/clavos-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1123",
-    "nombre": "Clavos 5 pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Clavos 5 pulgadas, una opción práctica para trabajos de construcción, carpintería y fijaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/clavos-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1124",
-    "nombre": "Alambre púas rollo 250 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Alambre púas rollo 250 mts, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/alambre-puas-maderas-muena-talca.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1125",
-    "nombre": "Clavo techo 2 1/2 Pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Clavo techo 2 1/2 Pulgadas, una opción práctica para trabajos de construcción, carpintería y fijaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1126",
-    "nombre": "Tornillo techo 2 1/2 Pulgadas",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Tornillo techo 2 1/2 Pulgadas, elemento de fijación para distintos trabajos de construcción y montaje. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1127",
-    "nombre": "Zinc Acanalado 0, 35 z150 2, 5 Mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Zinc Acanalado 0, 35 z150 2, 5 Mts, producto para proyectos de techumbre, cubiertas y soluciones de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/zinc-acanalado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1128",
-    "nombre": "Zinc Acanalado 0, 35 z150 3 Mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Zinc Acanalado 0, 35 z150 3 Mts, producto para proyectos de techumbre, cubiertas y soluciones de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/zinc-acanalado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1129",
-    "nombre": "Zinc Acanalado 0, 35 z150 3, 66 Mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Zinc Acanalado 0, 35 z150 3, 66 Mts, producto para proyectos de techumbre, cubiertas y soluciones de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/zinc-acanalado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1130",
-    "nombre": "Pino cepillado seco 2 x 4, 3,20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 2 x 4, 3,20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-2-x-4-320-mts.png",
-    "principal": ""
-  },
-  {
-    "id": "1131",
-    "nombre": "Pino cepillado seco 2 x 6, 3,20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 2 x 6, 3,20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-2-x-6-320-mts.jpg, https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-2-x-6-320-mts.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1132",
-    "nombre": "Pino cepillado seco 2 x 8, 3, 20tms",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 2 x 8, 3, 20tms, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-2-x-8-3-20tms.jpeg",
-    "principal": ""
-  },
-  {
-    "id": "1133",
-    "nombre": "Pino cepillado seco 2 x 10, 3, 20tms",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Pino cepillado seco 2 x 10, 3, 20tms, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Pino-cepillado-seco-2-x-10-3-20tms.jpg",
-    "principal": ""
-  },
-  {
-    "id": "1134",
-    "nombre": "Polín Calibrado",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Impregnados exterior",
-    "descripcion": "Polín Calibrado, ideal para cierres, estructuras y distintos trabajos en madera. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/polin-calibrado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1135",
-    "nombre": "Piso terraza 1 x 4, 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Impregnados exterior",
-    "descripcion": "Piso terraza 1 x 4, 3, 20 mts, madera para proyectos de terrazas y terminaciones exteriores. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1136",
-    "nombre": "pino dimensionado verde 2 x 2 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "pino dimensionado verde 2 x 2 x 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/viga-pino-maderas.muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1137",
-    "nombre": "pino dimensionado verde 2 x 3 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "pino dimensionado verde 2 x 3 x 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/viga-pino-maderas.muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1138",
-    "nombre": "pino dimensionado verde 2 x 4 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "pino dimensionado verde 2 x 4 x 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/viga-pino-maderas.muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1139",
-    "nombre": "pino dimensionado verde 2 x 5 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "pino dimensionado verde 2 x 5 x 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-bruto-2-x-3-3.20-mts.jpeg",
-    "principal": ""
-  },
-  {
-    "id": "1140",
-    "nombre": "pino dimensionado verde 2 x 6 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "pino dimensionado verde 2 x 6 x 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/ssaasads.png",
-    "principal": ""
-  },
-  {
-    "id": "1141",
-    "nombre": "Ventana Madera 1 x 1",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Ventana Madera 1 x 1, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1142",
-    "nombre": "Ventana Madera 1 x 1 x 1, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Ventana Madera 1 x 1 x 1, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1143",
-    "nombre": "Ventana Madera 1, 20 x 1, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Ventana Madera 1, 20 x 1, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1144",
-    "nombre": "Puerta Lineas E x T 80 x 2, 0 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Lineas E x T 80 x 2, 0 mts, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1145",
-    "nombre": "Piso 1 x 5 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Piso 1 x 5 x 3, 20 mts, alternativa para proyectos de pisos y terminaciones en madera. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Piso-1-x-5-x-3-20-mts.jpeg",
-    "principal": ""
-  },
-  {
-    "id": "1146",
-    "nombre": "Tabla pino machihembrado seco 3/4 x 4 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Tabla pino machihembrado seco 3/4 x 4 x 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Tabla-pino-machihembrado.png",
-    "principal": ""
-  },
-  {
-    "id": "1147",
-    "nombre": "Tabla pino machihembrado seco 3/4 x 5 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Tabla pino machihembrado seco 3/4 x 5 x 3, 20 mts, madera para proyectos de construcción, carpintería, estructuras y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Tabla-pino-machihembrado.png",
-    "principal": ""
-  },
-  {
-    "id": "1148",
-    "nombre": "Pilastra Finger",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Molduras terminación",
-    "descripcion": "Pilastra Finger, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1149",
-    "nombre": "MDF ranurado 6mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "MDF ranurado 6mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/mdf-ranurado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1150",
-    "nombre": "MDF ranurado 9mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "MDF ranurado 9mm, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/mdf-ranurado-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1151",
-    "nombre": "plancha Internit 4mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "plancha Internit 4mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/internit-fibro-cemento-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1152",
-    "nombre": "plancha Internit 5mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "plancha Internit 5mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/internit-fibro-cemento-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1153",
-    "nombre": "plancha Internit 6mm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria exterior",
-    "descripcion": "plancha Internit 6mm, plancha para soluciones de revestimiento, tabiquería y proyectos de construcción. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/internit-fibro-cemento-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1154",
-    "nombre": "Volcanita 12, 5mm RH",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Volcanita 12, 5mm RH, plancha para proyectos de tabiquería, revestimientos y terminaciones interiores. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/volcanita-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1155",
-    "nombre": "Volcanita 12, 5mm RF BR",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Tabiqueria interior",
-    "descripcion": "Volcanita 12, 5mm RF BR, plancha para proyectos de tabiquería, revestimientos y terminaciones interiores. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/volcanita-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1156",
-    "nombre": "Puerta interior terciado económica 75 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta interior terciado económica 75 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-terciado-economica-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1157",
-    "nombre": "Puerta interior terciado económica 80 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta interior terciado económica 80 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-terciado-economica-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1158",
-    "nombre": "Puerta interior terciado económica 85 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta interior terciado económica 85 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-terciado-economica-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1159",
-    "nombre": "Puerta Interior sinfonía blanca 75 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Interior sinfonía blanca 75 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-sinfonia-blanca-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1160",
-    "nombre": "Puerta Interior sinfonía blanca 80 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Interior sinfonía blanca 80 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-sinfonia-blanca-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1161",
-    "nombre": "Puerta Interior sinfonía blanca 85 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta Interior sinfonía blanca 85 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/puerta-sinfonia-blanca-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1162",
-    "nombre": "Puerta especial 7 paneles solida 80 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta especial 7 paneles solida 80 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1163",
-    "nombre": "Puerta especial 7 paneles solida 85 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta especial 7 paneles solida 85 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1164",
-    "nombre": "Puerta especial 7 paneles solida 90 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "Puerta especial 7 paneles solida 90 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1165",
-    "nombre": "puerta solida 7 paneles con vidrio empavonado 80 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "puerta solida 7 paneles con vidrio empavonado 80 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Puerta-7-Paneles-variante-con-vidrio-maderas-muena-talca-.png",
-    "principal": ""
-  },
-  {
-    "id": "1166",
-    "nombre": "puerta solida 7 paneles con vidrio empavonado 85 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "puerta solida 7 paneles con vidrio empavonado 85 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Puerta-7-Paneles-variante-con-vidrio-maderas-muena-talca-.png",
-    "principal": ""
-  },
-  {
-    "id": "1167",
-    "nombre": "puerta solida 7 paneles con vidrio empavonado 90 x 200 cm",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Puertas terminación",
-    "descripcion": "puerta solida 7 paneles con vidrio empavonado 90 x 200 cm, una alternativa para proyectos de construcción, remodelación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/Puerta-7-Paneles-variante-con-vidrio-maderas-muena-talca-.png",
-    "principal": ""
-  },
-  {
-    "id": "1168",
-    "nombre": "Teja asfaltica negra",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Teja asfaltica negra, alternativa para proyectos de techumbre y terminaciones exteriores. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/teja-asfaltica-negra-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1169",
-    "nombre": "Teja asfaltica café",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Techumbre",
-    "descripcion": "Teja asfaltica café, alternativa para proyectos de techumbre y terminaciones exteriores. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/teja-asfaltica-cafe-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1170",
-    "nombre": "Cerámica Piso 45 x 45 cm, Café Claro, Celima",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Sin categoría",
-    "descripcion": "Cerámica Piso 45 x 45 cm, Café Claro, Celima, alternativa para proyectos de pisos y terminaciones en madera. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "",
-    "principal": ""
-  },
-  {
-    "id": "1171",
-    "nombre": "Cemento transe x 25Kg",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Ferretería",
-    "descripcion": "Cemento transe x 25Kg, producto para distintos proyectos de construcción, reparación y terminaciones. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/cemento-transex-maderas-muena-talca.png",
-    "principal": ""
-  },
-  {
-    "id": "1172",
-    "nombre": "Tinglado 3/4 x 5 x 3, 20 mts",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas cepilladas",
-    "descripcion": "Tinglado 3/4 x 5 x 3, 20 mts, madera para revestimientos y terminaciones, con una apariencia natural para distintos proyectos. Consulta disponibilidad y cotización directamente con Maderas y Ferreterías Muena en Talca.",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/tinglado-3-4-x-5.png",
-    "principal": ""
-  },
-  {
-    "id": "1410",
-    "nombre": "Pino dimensionado 1 x 3 , 3.20 mts.",
-    "precio": null,
-    "precioRebajado": null,
-    "categoria": "Maderas en brutos",
-    "descripcion": "",
-    "imagen": "https://maderasyferreteriasmuena.cl/wp-content/uploads/2026/09/pino-verde-1-x-2-x-320mts.png",
-    "principal": ""
+    "id": "BICI-001",
+    "nombre": "Bicicleta MTB aro 29 aluminio 21 velocidades",
+    "descripcion": "Bicicleta MTB aro 29 aluminio 21 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Bicicletas",
+    "precio": 279990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20MTB%20aro%2029%20aluminio%2021%20velocidades",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-002",
+    "nombre": "Bicicleta MTB aro 27.5 suspensión delantera",
+    "descripcion": "Bicicleta MTB aro 27.5 suspensión delantera. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Bicicletas",
+    "precio": 239990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20MTB%20aro%2027.5%20suspensi%C3%B3n%20delantera",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-003",
+    "nombre": "Bicicleta urbana aro 28 cuadro de aluminio",
+    "descripcion": "Bicicleta urbana aro 28 cuadro de aluminio. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Bicicletas",
+    "precio": 229990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20urbana%20aro%2028%20cuadro%20de%20aluminio",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-004",
+    "nombre": "Bicicleta híbrida aro 700 21 velocidades",
+    "descripcion": "Bicicleta híbrida aro 700 21 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Bicicletas",
+    "precio": 259990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20h%C3%ADbrida%20aro%20700%2021%20velocidades",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-005",
+    "nombre": "Bicicleta infantil aro 16 con rueditas",
+    "descripcion": "Bicicleta infantil aro 16 con rueditas. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Bicicletas",
+    "precio": 99990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20infantil%20aro%2016%20con%20rueditas",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-006",
+    "nombre": "Bicicleta infantil aro 20 6 velocidades",
+    "descripcion": "Bicicleta infantil aro 20 6 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Bicicletas",
+    "precio": 139990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20infantil%20aro%2020%206%20velocidades",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-007",
+    "nombre": "Bicicleta BMX aro 20 freestyle",
+    "descripcion": "Bicicleta BMX aro 20 freestyle. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Bicicletas",
+    "precio": 189990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20BMX%20aro%2020%20freestyle",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-008",
+    "nombre": "Bicicleta plegable aro 20",
+    "descripcion": "Bicicleta plegable aro 20. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Bicicletas",
+    "precio": 249990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20plegable%20aro%2020",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-009",
+    "nombre": "Neumático MTB 29 x 2.10",
+    "descripcion": "Neumático MTB 29 x 2.10. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Neumáticos y cámaras",
+    "precio": 19990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Neum%C3%A1tico%20MTB%2029%20x%202.10",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-010",
+    "nombre": "Neumático MTB 27.5 x 2.20",
+    "descripcion": "Neumático MTB 27.5 x 2.20. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Neumáticos y cámaras",
+    "precio": 21990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Neum%C3%A1tico%20MTB%2027.5%20x%202.20",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-011",
+    "nombre": "Neumático urbano 700 x 35C",
+    "descripcion": "Neumático urbano 700 x 35C. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Neumáticos y cámaras",
+    "precio": 17990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Neum%C3%A1tico%20urbano%20700%20x%2035C",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-012",
+    "nombre": "Neumático BMX 20 x 2.25",
+    "descripcion": "Neumático BMX 20 x 2.25. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Neumáticos y cámaras",
+    "precio": 15990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Neum%C3%A1tico%20BMX%2020%20x%202.25",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-013",
+    "nombre": "Cámara aro 29 válvula presta",
+    "descripcion": "Cámara aro 29 válvula presta. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Neumáticos y cámaras",
+    "precio": 6990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=C%C3%A1mara%20aro%2029%20v%C3%A1lvula%20presta",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-014",
+    "nombre": "Cámara aro 27.5 válvula americana",
+    "descripcion": "Cámara aro 27.5 válvula americana. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Neumáticos y cámaras",
+    "precio": 5990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=C%C3%A1mara%20aro%2027.5%20v%C3%A1lvula%20americana",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-015",
+    "nombre": "Cámara aro 26 válvula americana",
+    "descripcion": "Cámara aro 26 válvula americana. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Neumáticos y cámaras",
+    "precio": 4990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=C%C3%A1mara%20aro%2026%20v%C3%A1lvula%20americana",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-016",
+    "nombre": "Kit parches autoadhesivos 6 unidades",
+    "descripcion": "Kit parches autoadhesivos 6 unidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Neumáticos y cámaras",
+    "precio": 2990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Kit%20parches%20autoadhesivos%206%20unidades",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-017",
+    "nombre": "Pastillas de freno disco resina compatibles",
+    "descripcion": "Pastillas de freno disco resina compatibles. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Frenos",
+    "precio": 8990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Pastillas%20de%20freno%20disco%20resina%20compatibles",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-018",
+    "nombre": "Pastillas de freno disco metálicas compatibles",
+    "descripcion": "Pastillas de freno disco metálicas compatibles. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Frenos",
+    "precio": 12990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Pastillas%20de%20freno%20disco%20met%C3%A1licas%20compatibles",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-019",
+    "nombre": "Zapatas de freno V-Brake par",
+    "descripcion": "Zapatas de freno V-Brake par. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Frenos",
+    "precio": 4990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Zapatas%20de%20freno%20V-Brake%20par",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-020",
+    "nombre": "Disco de freno 160 mm 6 pernos",
+    "descripcion": "Disco de freno 160 mm 6 pernos. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Frenos",
+    "precio": 12990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Disco%20de%20freno%20160%20mm%206%20pernos",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-021",
+    "nombre": "Cable de freno inoxidable 1.8 m",
+    "descripcion": "Cable de freno inoxidable 1.8 m. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Frenos",
+    "precio": 2990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Cable%20de%20freno%20inoxidable%201.8%20m",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-022",
+    "nombre": "Manillas de freno aluminio par",
+    "descripcion": "Manillas de freno aluminio par. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Frenos",
+    "precio": 13990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Manillas%20de%20freno%20aluminio%20par",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-023",
+    "nombre": "Cadena bicicleta 8 velocidades",
+    "descripcion": "Cadena bicicleta 8 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Transmisión",
+    "precio": 13990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Cadena%20bicicleta%208%20velocidades",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-024",
+    "nombre": "Cadena bicicleta 9 velocidades",
+    "descripcion": "Cadena bicicleta 9 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Transmisión",
+    "precio": 17990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Cadena%20bicicleta%209%20velocidades",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-025",
+    "nombre": "Piñón rosca 7 velocidades",
+    "descripcion": "Piñón rosca 7 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Transmisión",
+    "precio": 17990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Pi%C3%B1%C3%B3n%20rosca%207%20velocidades",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-026",
+    "nombre": "Cassette 9 velocidades 11-36T",
+    "descripcion": "Cassette 9 velocidades 11-36T. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Transmisión",
+    "precio": 29990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Cassette%209%20velocidades%2011-36T",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-027",
+    "nombre": "Cambio trasero 7 velocidades",
+    "descripcion": "Cambio trasero 7 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Transmisión",
+    "precio": 19990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Cambio%20trasero%207%20velocidades",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-028",
+    "nombre": "Desviador delantero triple",
+    "descripcion": "Desviador delantero triple. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Transmisión",
+    "precio": 12990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Desviador%20delantero%20triple",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-029",
+    "nombre": "Pedales plataforma antideslizantes par",
+    "descripcion": "Pedales plataforma antideslizantes par. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Transmisión",
+    "precio": 11990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Pedales%20plataforma%20antideslizantes%20par",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-030",
+    "nombre": "Plato y biela triple 42-34-24T",
+    "descripcion": "Plato y biela triple 42-34-24T. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Transmisión",
+    "precio": 34990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Plato%20y%20biela%20triple%2042-34-24T",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-031",
+    "nombre": "Casco ciclismo urbano ajustable",
+    "descripcion": "Casco ciclismo urbano ajustable. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 24990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Casco%20ciclismo%20urbano%20ajustable",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-032",
+    "nombre": "Luces LED delantera y trasera recargables",
+    "descripcion": "Luces LED delantera y trasera recargables. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 16990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Luces%20LED%20delantera%20y%20trasera%20recargables",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-033",
+    "nombre": "Candado tipo U con llaves",
+    "descripcion": "Candado tipo U con llaves. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 19990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Candado%20tipo%20U%20con%20llaves",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-034",
+    "nombre": "Portabotella aluminio",
+    "descripcion": "Portabotella aluminio. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 6990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Portabotella%20aluminio",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-035",
+    "nombre": "Botella deportiva 750 ml",
+    "descripcion": "Botella deportiva 750 ml. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 5990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Botella%20deportiva%20750%20ml",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-036",
+    "nombre": "Timbre metálico bicicleta",
+    "descripcion": "Timbre metálico bicicleta. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 3990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Timbre%20met%C3%A1lico%20bicicleta",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-037",
+    "nombre": "Guardabarros MTB universal par",
+    "descripcion": "Guardabarros MTB universal par. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 12990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Guardabarros%20MTB%20universal%20par",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-038",
+    "nombre": "Bolso bajo asiento impermeable",
+    "descripcion": "Bolso bajo asiento impermeable. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 11990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bolso%20bajo%20asiento%20impermeable",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-039",
+    "nombre": "Soporte de celular para manubrio",
+    "descripcion": "Soporte de celular para manubrio. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 9990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Soporte%20de%20celular%20para%20manubrio",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-040",
+    "nombre": "Espejo retrovisor para bicicleta",
+    "descripcion": "Espejo retrovisor para bicicleta. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Accesorios",
+    "precio": 7990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Espejo%20retrovisor%20para%20bicicleta",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-041",
+    "nombre": "Bombín de pie con manómetro",
+    "descripcion": "Bombín de pie con manómetro. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Herramientas y mantenimiento",
+    "precio": 24990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bomb%C3%ADn%20de%20pie%20con%20man%C3%B3metro",
+    "Principal": "1"
+  },
+  {
+    "id": "BICI-042",
+    "nombre": "Mini bombín portátil",
+    "descripcion": "Mini bombín portátil. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Herramientas y mantenimiento",
+    "precio": 11990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Mini%20bomb%C3%ADn%20port%C3%A1til",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-043",
+    "nombre": "Multiherramienta bicicleta 16 funciones",
+    "descripcion": "Multiherramienta bicicleta 16 funciones. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Herramientas y mantenimiento",
+    "precio": 14990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Multiherramienta%20bicicleta%2016%20funciones",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-044",
+    "nombre": "Desmontadores de neumático juego 3",
+    "descripcion": "Desmontadores de neumático juego 3. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Herramientas y mantenimiento",
+    "precio": 3990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Desmontadores%20de%20neum%C3%A1tico%20juego%203",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-045",
+    "nombre": "Lubricante para cadena 120 ml",
+    "descripcion": "Lubricante para cadena 120 ml. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Herramientas y mantenimiento",
+    "precio": 6990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Lubricante%20para%20cadena%20120%20ml",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-046",
+    "nombre": "Cepillo limpiador de transmisión",
+    "descripcion": "Cepillo limpiador de transmisión. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Herramientas y mantenimiento",
+    "precio": 5990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Cepillo%20limpiador%20de%20transmisi%C3%B3n",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-047",
+    "nombre": "Kit reparación pinchazos",
+    "descripcion": "Kit reparación pinchazos. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Herramientas y mantenimiento",
+    "precio": 6990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Kit%20reparaci%C3%B3n%20pinchazos",
+    "Principal": "0"
+  },
+  {
+    "id": "BICI-048",
+    "nombre": "Llave para pedales 15 mm",
+    "descripcion": "Llave para pedales 15 mm. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
+    "categoria": "Herramientas y mantenimiento",
+    "precio": 8990,
+    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Llave%20para%20pedales%2015%20mm",
+    "Principal": "0"
   }
 ]
