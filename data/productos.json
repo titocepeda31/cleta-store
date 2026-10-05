@@ -5,7 +5,7 @@
     "descripcion": "Bicicleta MTB aro 29 aluminio 21 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Bicicletas",
     "precio": 279990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20MTB%20aro%2029%20aluminio%2021%20velocidades",
+    "imagen": "imagenes/1.png",
     "Principal": "1"
   },
   {
@@ -14,7 +14,7 @@
     "descripcion": "Bicicleta MTB aro 27.5 suspensión delantera. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Bicicletas",
     "precio": 239990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20MTB%20aro%2027.5%20suspensi%C3%B3n%20delantera",
+    "imagen": "imagenes/2.png",
     "Principal": "1"
   },
   {
@@ -23,7 +23,7 @@
     "descripcion": "Bicicleta urbana aro 28 cuadro de aluminio. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Bicicletas",
     "precio": 229990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20urbana%20aro%2028%20cuadro%20de%20aluminio",
+    "imagen": "imagenes/3.png",
     "Principal": "1"
   },
   {
@@ -32,8 +32,8 @@
     "descripcion": "Bicicleta híbrida aro 700 21 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Bicicletas",
     "precio": 259990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20h%C3%ADbrida%20aro%20700%2021%20velocidades",
-    "Principal": "0"
+    "imagen": "imagenes/4.png",
+    "Principal": "1"
   },
   {
     "id": "BICI-005",
@@ -41,7 +41,7 @@
     "descripcion": "Bicicleta infantil aro 16 con rueditas. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Bicicletas",
     "precio": 99990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20infantil%20aro%2016%20con%20rueditas",
+    "imagen": "imagenes/5.png",
     "Principal": "1"
   },
   {
@@ -50,8 +50,8 @@
     "descripcion": "Bicicleta infantil aro 20 6 velocidades. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Bicicletas",
     "precio": 139990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20infantil%20aro%2020%206%20velocidades",
-    "Principal": "0"
+    "imagen": "imagenes/6.png",
+    "Principal": "1"
   },
   {
     "id": "BICI-007",
@@ -59,8 +59,8 @@
     "descripcion": "Bicicleta BMX aro 20 freestyle. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Bicicletas",
     "precio": 189990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20BMX%20aro%2020%20freestyle",
-    "Principal": "0"
+    "imagen": "imagenes/7.png",
+    "Principal": "1"
   },
   {
     "id": "BICI-008",
@@ -68,8 +68,8 @@
     "descripcion": "Bicicleta plegable aro 20. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Bicicletas",
     "precio": 249990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bicicleta%20plegable%20aro%2020",
-    "Principal": "0"
+    "imagen": "imagenes/8.png",
+    "Principal": "1"
   },
   {
     "id": "BICI-009",
@@ -77,7 +77,7 @@
     "descripcion": "Neumático MTB 29 x 2.10. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Neumáticos y cámaras",
     "precio": 19990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Neum%C3%A1tico%20MTB%2029%20x%202.10",
+    "imagen": "imagenes/9.png",
     "Principal": "1"
   },
   {
@@ -86,8 +86,8 @@
     "descripcion": "Neumático MTB 27.5 x 2.20. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Neumáticos y cámaras",
     "precio": 21990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Neum%C3%A1tico%20MTB%2027.5%20x%202.20",
-    "Principal": "0"
+    "imagen": "imagenes/10.png",
+    "Principal": "1"
   },
   {
     "id": "BICI-011",
@@ -95,8 +95,8 @@
     "descripcion": "Neumático urbano 700 x 35C. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Neumáticos y cámaras",
     "precio": 17990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Neum%C3%A1tico%20urbano%20700%20x%2035C",
-    "Principal": "0"
+    "imagen": "imagenes/11.png",
+    "Principal": "1"
   },
   {
     "id": "BICI-012",
@@ -104,8 +104,8 @@
     "descripcion": "Neumático BMX 20 x 2.25. Producto de demostración; confirmar especificaciones, compatibilidad y disponibilidad antes de vender.",
     "categoria": "Neumáticos y cámaras",
     "precio": 15990,
-    "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Neum%C3%A1tico%20BMX%2020%20x%202.25",
-    "Principal": "0"
+    "imagen": "imagenes/12.png",
+    "Principal": "1"
   },
   {
     "id": "BICI-013",
@@ -114,7 +114,7 @@
     "categoria": "Neumáticos y cámaras",
     "precio": 6990,
     "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=C%C3%A1mara%20aro%2029%20v%C3%A1lvula%20presta",
-    "Principal": "1"
+    "Principal": "0"
   },
   {
     "id": "BICI-014",
@@ -150,7 +150,7 @@
     "categoria": "Frenos",
     "precio": 8990,
     "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Pastillas%20de%20freno%20disco%20resina%20compatibles",
-    "Principal": "1"
+    "Principal": "0"
   },
   {
     "id": "BICI-018",
@@ -204,7 +204,7 @@
     "categoria": "Transmisión",
     "precio": 13990,
     "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Cadena%20bicicleta%208%20velocidades",
-    "Principal": "1"
+    "Principal": "0"
   },
   {
     "id": "BICI-024",
@@ -222,7 +222,7 @@
     "categoria": "Transmisión",
     "precio": 17990,
     "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Pi%C3%B1%C3%B3n%20rosca%207%20velocidades",
-    "Principal": "1"
+    "Principal": "0"
   },
   {
     "id": "BICI-026",
@@ -276,7 +276,7 @@
     "categoria": "Accesorios",
     "precio": 24990,
     "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Casco%20ciclismo%20urbano%20ajustable",
-    "Principal": "1"
+    "Principal": "0"
   },
   {
     "id": "BICI-032",
@@ -285,7 +285,7 @@
     "categoria": "Accesorios",
     "precio": 16990,
     "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Luces%20LED%20delantera%20y%20trasera%20recargables",
-    "Principal": "1"
+    "Principal": "0"
   },
   {
     "id": "BICI-033",
@@ -366,7 +366,7 @@
     "categoria": "Herramientas y mantenimiento",
     "precio": 24990,
     "imagen": "https://placehold.co/800x600/F1F5F9/254A65.png?text=Bomb%C3%ADn%20de%20pie%20con%20man%C3%B3metro",
-    "Principal": "1"
+    "Principal": "0"
   },
   {
     "id": "BICI-042",
